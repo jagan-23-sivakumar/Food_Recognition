@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "916580034902",
+    "project_id": "nutritionanalyzer-ebcf5",
+    "storage_bucket": "nutritionanalyzer-ebcf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916580034902:android:d829e13f8dbe9625cc8ef7",
+        "android_client_info": {
+          "package_name": "com.mastercoding.explicitintentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916580034902-bd76s4f0u5gp2a972o3jhr0l9ka005u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mastercoding.explicitintentapp",
+            "certificate_hash": "9372d0a3d04e04e08dd5ad1b84f549c3485b02ab"
+          }
+        },
+        {
+          "client_id": "916580034902-a0a6jgmipd1nmgscvvbv3n1vq5l5qauv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATP-R9FpJcLY9DEHJEiA-6HCmcQufZbzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916580034902-a0a6jgmipd1nmgscvvbv3n1vq5l5qauv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
